@@ -1,15 +1,16 @@
-# POLITIQUE DE CONFIDENTIALITÉ ET DE PROTECTION DES DONNÉES PERSONNELLES
+# POLITIQUE DE CONFIDENTIALITÉ ET DE PROTECTION DES DONNÉES PERSONNELLES POUR TOUS LES UTILISATEURS AYANT ACCEPTES DE PRENDRE PART AU PANEL D'ETUDE
 
 
-Les données envoyées par vous mêmes et collectées journalièrement sont toutes anonymées de manière à ne pas singulariser qui que ce soit. 
+## Communiqué d'autorisation
+
+Telco Kyria collecte, lit les données de journaux d'appels, les statistiques des applications utilisées journalièrement et leurs temps d'utilisation, les messages sms pour permettre à l'utilisateur de comprendre son utilisation journalière de son téléphone. Ces données sont aussi utilisées à des fins d'étude sur l'activité de la consommation téléphonique pour les utilisateurs ayant acceptés de participer à notre panel d'étude.
+
+## I.	LES CONDITIONS D'ADHÉSION AU PANEL
+
+Le Panel « nom du panel », désigné ci-après par « le Panel », est constitué d'un groupe de personnes possédant un téléphone portable. Il est question d’écouter l’utilisation de chaque utilisateur et d’en recueillir toutes les informations générées au moyen d’une application. Les informations recueillies seront transférées automatiquement ou manuellement suivant une fréquence bien définie (chaque mois, après 2 semaines)."
 
 
-## License
-
-This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
-
-
-## Author
+## Auteur
 
 Kyria Consulting
 
